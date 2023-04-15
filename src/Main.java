@@ -10,6 +10,7 @@ public class Main {
         //Média calculada pelas 3 notas da Jack, Paulo e Suelem
         double media = (9.8 + 6.3  + 8.0) / 3;
         System.out.println(media);
+
         String sinopse;
         sinopse = """
                 Filme Top Gun
